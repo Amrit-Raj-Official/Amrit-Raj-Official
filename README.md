@@ -8,7 +8,7 @@
 
 - 🤹 Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python. Framework: UVM, ABV.**
 
-- 🎓 Certifications: **Red Hat Certified System Administrator (RHCSA v8.0) && Siemens EDA System Verilog and UVM Certified.**
+- 🎓 Certifications: **Siemens EDA System Verilog and UVM Certified & Red Hat Certified System Administrator (RHCSA v8.0).**
 
 
 <h3 align="left">Connect with me:</h3>
