@@ -8,6 +8,9 @@
 
 - 🤹 Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python. Framework: UVM, ABV.**
 
+- 🎓 Certifications: **Red Hat Certified System Administrator (RHCSA v8.0) && Siemens EDA System Verilog and UVM Certified.**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-raj-623962173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amrit-raj-623962173/" height="30" width="40" /></a>
