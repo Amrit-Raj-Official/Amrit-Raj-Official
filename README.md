@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **https://www.linkedin.com/in/amrit-raj-623962173**
 
-- ⚡ Fun fact:  **I can turn 0s to 1s and 1s to 0s.**
+- ⚡ Fun fact:  **Playing with 1s and 0s.**
 
 - 🤹 Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python. Framework: UVM, ABV.**
 
