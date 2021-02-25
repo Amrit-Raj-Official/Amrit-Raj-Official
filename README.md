@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amrit Raj</h1>
 <h3 align="center">A VLSI frontend enthusiast.</h3>
 
-- 📫 How to reach me: **https://www.linkedin.com/in/amrit-raj-623962173**
+- 📫 How to reach me: **amritraj46@gmail.com**
 
 - ⚡ Fun fact:  **Playing with 1s and 0s.**
 
