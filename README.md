@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-raj-623962173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amrit-raj-623962173/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amrit-raj-623962173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amrit-raj-623962173/" height="30" width="40" /></a><a href="amritraj46@gmail.com" target="blank"><img align="center" src="https://www.google.com/search?q=gmail&client=firefox-b-d&sxsrf=ALeKk01rBCsEIj9jTTFkKBu7x31eKqufFg:1614272964187&tbm=isch&source=iu&ictx=1&fir=ab3UE-B4aCw0-M%252CmcW-4V-4uf3AYM%252C_&vet=1&usg=AI4_-kTVmyqrL8JS3Md1sXuVT4AAq0pqmQ&sa=X&ved=2ahUKEwip3Oa0w4XvAhW98XMBHcgqDQQQ_h16BAglEAE#imgrc=ab3UE-B4aCw0-M" alt="amritraj46@gmail.com" height="30" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
