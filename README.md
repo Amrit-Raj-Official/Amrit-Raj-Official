@@ -4,7 +4,7 @@
 
 -  Fun fact:  **Playing with 1s and 0s.**
 
--  Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python, UVM Framework**
+-  Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python, UVM Framework.**
 
 -  Certifications: **Siemens EDA System Verilog and UVM Certified & Red Hat Certified System Administrator (RHCSA v8.0).**
 
