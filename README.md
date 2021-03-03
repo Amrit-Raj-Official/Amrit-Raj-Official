@@ -2,11 +2,11 @@
 <h1 align="center">Hi, I'm Amrit Raj</h1>
 <h3 align="center">A VLSI frontend enthusiast.</h3>
 
-- ⚡ Fun fact:  **Playing with 1s and 0s.**
+-  Fun fact:  **Playing with 1s and 0s.**
 
-- 🤹 Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python. Framework: UVM, ABV.**
+-  Skills: **RTL Coding, RISC-V, Verilog (HDL), System Verilog (HVL), C, Python, UVM Framework**
 
-- 🎓 Certifications: **Siemens EDA System Verilog and UVM Certified & Red Hat Certified System Administrator (RHCSA v8.0).**
+-  Certifications: **Siemens EDA System Verilog and UVM Certified & Red Hat Certified System Administrator (RHCSA v8.0).**
 
 
 <h3 align="left">Connect with me:</h3>
